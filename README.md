@@ -1,0 +1,1 @@
+This is my first game written in the C# programming language. The essence of the game is that you have a starting capital of $10,000. Buy and sell bitcoins. They either grow or fall in price. I'm new to programming. A little bit of AI, A LITTLE BIT!!! I'm glad I managed to do it :)
